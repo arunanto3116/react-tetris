@@ -1,12 +1,11 @@
-.App {
-  text-align: center;
-}
 
 .App-logo {
   height: 40vmin;
 }
-
-.App-header {
+.tetris-container{
+    position: relative;
+}
+.App{
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
